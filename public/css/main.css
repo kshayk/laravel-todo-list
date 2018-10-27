@@ -1,0 +1,7 @@
+input[type="text"]:disabled {
+    background: white;
+}
+
+.form-inline > * {
+    margin:30px 9%;
+}
